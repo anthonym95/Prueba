@@ -9,7 +9,7 @@ using WinInventarioHogar.Entidades;
 namespace WinInventarioHogar.Datos
 {
     public class RolDatos
-    // pruebla lol
+    {// prueba 2.0
         public void Crear(Rol rol)
         {
             // Primer paso: indicar donde se encuentra la base de datos
