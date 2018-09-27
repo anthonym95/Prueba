@@ -12,6 +12,7 @@ namespace WinInventarioHogar.Datos
     {
         public void Crear(Categoria categoria)
         {
+            //CATEGORIA DATOOOOOOOOOOOOOSSSSSSSSSSSS
             // Primer paso: indicar donde se encuentra la base de datos
             MySqlConnection conexion = new MySqlConnection(Conexion.Cadena);
             try
