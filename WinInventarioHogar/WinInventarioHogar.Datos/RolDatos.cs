@@ -15,7 +15,7 @@ namespace WinInventarioHogar.Datos
             // Primer paso: indicar donde se encuentra la base de datos
             MySqlConnection conexion = new MySqlConnection(Conexion.Cadena);
             try
-            {
+            {// Mae si me funciono jaja 
                 conexion.Open();
                 string sql = "SP_RolCreate";
 
