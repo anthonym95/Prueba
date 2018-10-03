@@ -11,7 +11,7 @@ namespace WinInventarioHogar.Datos
     public class RolDatos
     {// prueba 2.0
         public void Crear(Rol rol)
-        {
+        {// hola
             // Primer paso: indicar donde se encuentra la base de datos
             MySqlConnection conexion = new MySqlConnection(Conexion.Cadena);
             try
